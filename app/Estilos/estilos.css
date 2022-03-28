@@ -1,0 +1,76 @@
+.formulario-inicio{
+    width:  450px;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute !important;
+    left: 50%;
+}
+.formulario-inicio-icono{
+    font-size: 5rem;
+}
+.formulario-enlaces a{
+    font-size: 1rem;
+    text-decoration: none;
+}
+.formulario-registro-footer{
+    background: none !important;
+}
+.formulario-cabecera{
+    color:  #424642;
+    text-align: center;
+    background: none !important;
+}
+.formulario-enlace-inicio{
+    justify-content: center;
+    display: flex;
+    transform: translate(0px, 550px);
+}
+
+
+.sidebar-menu-usuario{
+    transform: translate(0px, 350px);
+}
+.sidebar-menu-usuario, a{
+    color:  #424642;
+}
+
+.sidebar{
+    background-color: #533E85;
+}
+.sidebar-lista-principal a{
+    color:  white;
+}
+.sidebar-lista-principal  li:hover  a:hover {
+    background:  #DFDFDE;
+    color: #424642;
+}
+.btn-primary{
+    border: #533E85 !important;
+    background-color: #533E85 !important;
+}
+
+.foto-perfil{
+    width: 130px;
+    height: 130px;
+}
+
+
+
+.enlaces-album{
+    font-size: 0.9rem;
+}
+
+
+.cards-categoria a{
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+}
+
+.cards-categoria{
+    border-radius: 15px !important;
+    background-color: rgba(8, 8, 8, 0.85);
+    justify-content: center !important;
+    display: flex !important;
+    align-items: center !important;
+}
